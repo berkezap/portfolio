@@ -1,0 +1,11 @@
+[build]
+builder = "NIXPACKS"
+
+[deploy]
+startCommand = "java -jar target/portfolio-backend-0.0.1-SNAPSHOT.jar"
+healthcheckPath = "/api/experiences"
+healthcheckTimeout = 100
+restartPolicyType = "ON_FAILURE"
+
+[env]
+PORT = "8080" 
