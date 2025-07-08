@@ -43,7 +43,7 @@ export default function GuildHallSection({ xboxMode }: GuildHallSectionProps) {
                 </CardHeader>
                 <CardContent>
                   <p className="text-green-100 leading-relaxed">
-                    25-kişilik raid'leri yönetmek bana proje yönetimi hakkında her şeyi öğretti: net hedefler belirleme, rol dağıtımı, kaynak yönetimi ve yoğun baskı altında sakin, etkili iletişim kurma. Bu, ultimate Agile takım deneyimi.
+                    25-kişilik raid&apos;leri yönetmek bana proje yönetimi hakkında her şeyi öğretti: net hedefler belirleme, rol dağıtımı, kaynak yönetimi ve yoğun baskı altında sakin, etkili iletişim kurma. Bu, ultimate Agile takım deneyimi.
                   </p>
                 </CardContent>
               </Card>
@@ -115,7 +115,7 @@ export default function GuildHallSection({ xboxMode }: GuildHallSectionProps) {
                 </CardHeader>
                 <CardContent>
                   <p className="text-green-100 leading-relaxed">
-                    Bu oyunlar dayanıklılık, problem çözme ve başarısızlıktan öğrenme konusunda bir master class. Her 'You Died' ekranı neyin yanlış gittiğini analiz etme ve soruna yeni, geliştirilmiş bir stratejiyle yaklaşma dersi.
+                    Bu oyunlar dayanıklılık, problem çözme ve başarısızlıktan öğrenme konusunda bir master class. Her &apos;You Died&apos; ekranı neyin yanlış gittiğini analiz etme ve soruna yeni, geliştirilmiş bir stratejiyle yaklaşma dersi.
                   </p>
                 </CardContent>
               </Card>
